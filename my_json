@@ -1,0 +1,27 @@
+{
+   "result": {
+      "Campaigns": [
+         {
+            "Name": "Test API Sandbox campaign 1",
+            "Id": 1234567,
+            "likes": 136,
+            "TESTTTTT": "test",
+            "now": "23/01/09"
+         },
+         {
+            "Name": "Test API Sandbox campaign 2",
+            "Id": 1234578,
+            "likes": 184,
+            "TESTTTTT": "test",
+            "now": "23/01/09"
+         },
+         {
+            "Name": "Test API Sandbox campaign 3",
+            "Id": 1234589,
+            "likes": 118,
+            "TESTTTTT": "test",
+            "now": "23/01/09"
+         }
+      ]
+   }
+}
